@@ -1,5 +1,5 @@
 # Hi, I'm Dustin!:
-👨‍💻 Former Software Engineer intern, passionate problem solver!<br>🎓 Upcoming graduate in Computer Science from UBridgeport, Connecticut.<br>💻 President of UPE chapter at UBridgeport, helping fellow students prepare for careers in tech!<br>🕸️ Current working on building my web development skills!
+👨‍💻 Former Software Engineer intern, passionate problem solver!<br>🎓 Graduate in Computer Science (B.S.) from UBridgeport, Connecticut.<br>💻 President of UPE chapter at UBridgeport, helping fellow students prepare for careers in tech!<br>🕸️ Current working on building my web development skills!
 
 
 # 📚 Tech Stack:
